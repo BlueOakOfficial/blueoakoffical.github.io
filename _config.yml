@@ -1,7 +1,5 @@
-theme: jekyll-theme-minimal
-domain: services.github.com
-author: GitHub, Inc.
-email: services@github.com
+author: Me and you corp
+email: yaroslavdavydkin938@gmail.com
 
 
 # Site Settings
@@ -11,7 +9,7 @@ title                    : "My project on python that like another internet"
 title_separator          : "-"
 name                     : "PyNternet"
 description              : "Just post your website to github and it revives in pyBrowser(My new browser)"
-baseurl                  : "/on-work" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
