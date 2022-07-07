@@ -1,30 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to new internet
 
-You can use the [editor on GitHub](https://github.com/BlueOakOffical/blueoakoffical.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hi all you can see a project named PyNternet it's my project and you can see
+what i'm doing right now or done or publish
 
-```markdown
-Syntax highlighted code block
+# What is in my project 
+## What features there are
+### Its open source :)
 
-# Header 1
-## Header 2
-### Header 3
+1.What is in my project
+  - New internet
+  - Text websiites
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+  - Numbered
+  - List
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
