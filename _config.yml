@@ -90,3 +90,5 @@ defaults:
       path: ""
     values:
       lang: "en"
+
+theme: jekyll-theme-cayman
